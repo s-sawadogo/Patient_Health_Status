@@ -6,7 +6,9 @@ Our **BI** **healthcare** **project** is a ***patient details dashboard*** desig
 
 ## Here a screenshot:
 
-![patient_dashboard](https://github.com/user-attachments/assets/93904a1f-ca2b-4d14-a935-4a44c6402c9b)
+![img1](https://github.com/user-attachments/assets/f3816383-22e2-48ec-8d00-cdefa97fa1bd)
+
+![img2](https://github.com/user-attachments/assets/5fe71401-7f84-4f0d-9feb-178efe63b50e)
 
 ## Datasets
 
