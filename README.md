@@ -8,7 +8,8 @@ This **Power BI** **healthcare** **project** is a ***patient details dashboard**
 
 ![img1](https://github.com/user-attachments/assets/f3816383-22e2-48ec-8d00-cdefa97fa1bd)
 
-![img2](https://github.com/user-attachments/assets/5fe71401-7f84-4f0d-9feb-178efe63b50e)
+
+![img2](https://github.com/user-attachments/assets/dc87b7ce-9d59-4f6b-9199-d74cb0ae9307)
 
 ## Datasets
 
